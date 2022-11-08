@@ -1,2 +1,3 @@
-<?
-echo "Hello from PHP\n";
+<?php
+echo "Hello PHP!\n";
+?>

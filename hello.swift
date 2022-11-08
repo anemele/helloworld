@@ -1,4 +1,3 @@
 import Fundation
 
-print("Hello from Swift\n")
-
+print("Hello Swift!\n")

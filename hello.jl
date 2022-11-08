@@ -1,2 +1,1 @@
-print("Hello from Julia\n")
-
+print("Hello Julia!\n")
